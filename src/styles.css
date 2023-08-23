@@ -14,7 +14,9 @@ body {
 .grid-3-columns-with-first-narrow {
   display: grid;
   grid-template-columns: 1fr 2fr 2fr;
-  grid-gap: 64px;
+  grid-gap: 60px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 .downtown-roanoke-image {
   max-width: 100%;
